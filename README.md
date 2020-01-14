@@ -16,4 +16,15 @@
 * El uso de funciones, usualmente se hacía todo en el main.
 * Algunas funciones como la de números aleatorios.
 
+## Laboratorio Extra
+
+### Observaciones al instructor
+
+* Buena explicacion de Git, quedó bastante claro
+* Ritmo de la clase un poco rápido
+* Muy bien en general, manejo bastante mejor Git gracias a ese solo repaso
+
+### Dificultades en ejercicios de tarea
+
+* No se dejaron ejercicios de tarea
 
