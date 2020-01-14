@@ -1,7 +1,8 @@
 #include <iostream>
 using namespace std;
 
-int main(void){
+int main(void)
+{
     char secret[] = {'c', 'o', 'd', 'i', 'f', 'i', 'c', 'a', 'r'};
     char verification[9];
     char guessLetter;
@@ -10,20 +11,24 @@ int main(void){
     cout << "Ahorcado" << endl;
     cout << "La palabra a adivinar contiene nueve letras" << endl;
 
-    do{
-        cout << "Letra: "; cin >> guessLetter;
+    do
+    {
+        cout << "Letra: ";
+        cin >> guessLetter;
 
-    } while(a > 0);
+    } while (a > 0);
 
     return 0;
 }
 
-void verifyLetter(char arr1[9], char arr2[9], char letter, int size){
+void verifyLetter(char arr1[9], char arr2[9], char letter, int size)
+{
 
-    for(int i = 0; i < size; i++){
-        if (arr1[i] == letter){
-            arr2[i] = letter; 
+    for (int i = 0; i < size; i++)
+    {
+        if (arr1[i] == letter)
+        {
+            arr2[i] = letter;
         }
     }
-
 }
