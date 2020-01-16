@@ -28,3 +28,17 @@
 
 * No se dejaron ejercicios de tarea
 
+## Laboratorio 02
+
+### Observaciones al instructor
+
+* Buena explicación de la guía de laboratirio
+* Buenos ejercicios para desarrollar en la clase
+* Los ejercicios de tarea los 3 eran casi iguales (registros)
+
+### Dificultades en ejercicios de tarea
+
+* El uso de las funciones de math.h, ya no las recordaba
+* El uso los arreglos y matrices dinámicos en los ejercicios del laboratorio
+* Usar bandera, también en los ejercicios del laboratorio
+
