@@ -54,4 +54,4 @@
 
 * Identificar el caso base y recursivo
 * Saber que se le va a sumar o hacer al caso recursivo
-* implementar los booleanos en casos recursivos
+* implementar los booleanos en casos recursivos.
