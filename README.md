@@ -32,7 +32,7 @@
 
 ### Observaciones al instructor
 
-* Buena explicación de la guía de laboratirio
+* Buena explicación de la guía de laboratorio
 * Buenos ejercicios para desarrollar en la clase
 * Los ejercicios de tarea los 3 eran casi iguales (registros)
 
@@ -42,3 +42,16 @@
 * El uso los arreglos y matrices dinámicos en los ejercicios del laboratorio
 * Usar bandera, también en los ejercicios del laboratorio
 
+## Laboratorio 04
+
+### Observaciones al instructor
+
+* Buen repaso para mejorar recursión
+* Buen desarrollo de la guia de Laboratorio
+* Buenos ejercicios de tarea
+
+### Dificultades en ejercicios de tarea
+
+* Identificar el caso base y recursivo
+* Saber que se le va a sumar o hacer al caso recursivo
+* implementar los booleanos en casos recursivos
