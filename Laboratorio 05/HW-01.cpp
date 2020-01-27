@@ -27,9 +27,28 @@ int main(void){
             cin >> unProducto.price; cin.ignore();
             cout << "Cantidad en stock: ";
             cin >> unProducto.stockQty; cin.ignore();
+            pilaDeProductos.push(unProducto);
+        }
+        else if(opcion == 'n' || opcion == 'N'){
+            continuar = false;
+        }
+        else{
+            cout << "Opcion no valida!" << endl;
         }
 
     }while(continuar);
+
+    cout << "\nDesapilando productos..." << endl;
+    while(!pilaDeProductos.empty()){
+        Producto productoTop = pilaDeProductos.top();
+        cout << "\nProducto: " << productoTop.name << endl;
+        cout << "Precio: $" << productoTop.price << endl;
+        cout << "Cantidad en stock: " << productoTop.stockQty << endl;
+
+        pilaDeProductos.pop();
+    }
+    cout << "Pila de preoductos vacia" << endl;
+
 
     return 0;
 }
