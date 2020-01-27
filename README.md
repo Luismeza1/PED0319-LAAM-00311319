@@ -55,3 +55,17 @@
 * Identificar el caso base y recursivo
 * Saber que se le va a sumar o hacer al caso recursivo
 * implementar los booleanos en casos recursivos.
+
+## Laboratorio 05
+
+### Observaciones al instructor
+
+* No me quedó del todo claro implementar pilas desde cero
+* Quedaron claras los metodos con las librerias ya implementadas
+* Sirvio para mejorar en aspectos de colas
+
+### Dificultades en ejercicios de tarea
+
+* Implemetar desde cero
+* Varios punteros y funciones que se utilizar pero no como funcionan
+* algunos If de implementar y funciones con punteros por ejemplo: if(!(*pSt))
